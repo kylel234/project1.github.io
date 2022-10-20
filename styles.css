@@ -70,3 +70,7 @@ footer {
     font-style: normal;
     font-size: medium;
 }
+
+img {
+    padding: 0px 2px 0px 2px;
+}
